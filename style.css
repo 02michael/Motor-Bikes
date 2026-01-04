@@ -150,6 +150,7 @@ nav {
     var(--header-background-color),
     var(--white)
   );
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   opacity: 0.1;
@@ -250,6 +251,7 @@ nav {
     var(--header-background-color),
     var(--white)
   );
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   opacity: 0.1;
@@ -341,6 +343,7 @@ nav {
     var(--background-color),
     var(--white)
   );
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   opacity: 0.1;
@@ -486,6 +489,7 @@ nav {
     var(--background-color),
     var(--white)
   );
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   opacity: 0.1;
@@ -509,6 +513,7 @@ nav {
     var(--background-color),
     var(--white)
   );
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   opacity: 0.1;
